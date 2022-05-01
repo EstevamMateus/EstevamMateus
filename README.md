@@ -2,7 +2,7 @@
 - 👀 I’m interested in  HTML, CSS, Java e JavaScript
 - 🌱 I’m currently learning  HTML5, CSS3, PHP básico, JavaScript
 - 💞️ I’m looking t uma oportunidade na area de TI
-- 📫 How to reach me  email:EStevammateus2016@gmail.com
+- 📫 How to reach me  email:Estevammateus2016@gmail.com
 
 <!---
 EstevamMateus/EstevamMateus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
